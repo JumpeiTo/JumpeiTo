@@ -1,7 +1,12 @@
 # Hi there 👋
 
 ## My GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JumpeiTo&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumpeiTo" />
+</a>
 
 <!--
 **JumpeiTo/JumpeiTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
